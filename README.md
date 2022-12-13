@@ -2,6 +2,9 @@ Simple Python Search Spider, Page Ranker, and Visualizer
 
 ![Captura de pantalla 2022-12-13 072638](https://user-images.githubusercontent.com/29576337/207338716-386ca764-629c-4b76-91a9-0a4b5b7a5195.jpg)
 
+![Captura de pantalla 2022-12-13 073718](https://user-images.githubusercontent.com/29576337/207341534-c9b3079f-e52f-4825-a5de-3b6c307b3894.jpg)
+
+
 
 This is a set of programs that emulate some of the functions of a 
 search engine.  They store their data in a SQLITE3 database named
